@@ -1,0 +1,5 @@
+{
+  "name": "Futsal Referees Guide",
+  "description": "An interactive quiz application for futsal referees to test their knowledge of the official laws of the game. Users can go through questions law by law and see their results at the end.",
+  "requestFramePermissions": []
+}

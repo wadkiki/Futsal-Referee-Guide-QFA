@@ -1,0 +1,23 @@
+{
+  "name": "Futsal Referees Guide",
+  "short_name": "Futsal Guide",
+  "description": "An interactive quiz application for futsal referees to test their knowledge of the official laws of the game. Users can go through questions law by law and see their results at the end.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1f2937",
+  "theme_color": "#991b1b",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
