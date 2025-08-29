@@ -1,4 +1,4 @@
-const CACHE_NAME = 'futsal-ref-guide-v3';
+const CACHE_NAME = 'futsal-ref-guide-v4';
 const urlsToCache = [
   '/',
   './index.html',
@@ -13,8 +13,8 @@ const urlsToCache = [
   './assets/icons/icon.svg',
   'https://cdn.tailwindcss.com',
   'https://www.qfa.qa/assets/public/media/logo/header-logo.svg',
-  'https://aistudiocdn.com/react@19.1.1',
-  'https://aistudiocdn.com/react-dom@19.1.1/client'
+  'https://esm.sh/react@19.1.1',
+  'https://esm.sh/react-dom@19.1.1/client'
 ];
 
 // Install the service worker and cache the app shell
