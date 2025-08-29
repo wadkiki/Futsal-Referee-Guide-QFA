@@ -9,6 +9,8 @@ const urlsToCache = [
   './components/WelcomeScreen.tsx',
   './components/QuizScreen.tsx',
   './components/ResultsScreen.tsx',
+  './assets/icons/icon-192x192.png',
+  './assets/icons/icon-512x512.png',
   'https://cdn.tailwindcss.com',
   'https://www.qfa.qa/assets/public/media/logo/header-logo.svg'
 ];
