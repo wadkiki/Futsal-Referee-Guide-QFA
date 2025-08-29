@@ -1,7 +1,8 @@
-const CACHE_NAME = 'futsal-ref-guide-v1';
+const CACHE_NAME = 'futsal-ref-guide-v2';
 const urlsToCache = [
   '/',
   './index.html',
+  './manifest.json',
   './index.tsx',
   './App.tsx',
   './types.ts',
@@ -9,8 +10,7 @@ const urlsToCache = [
   './components/WelcomeScreen.tsx',
   './components/QuizScreen.tsx',
   './components/ResultsScreen.tsx',
-  './assets/icons/icon-192x192.png',
-  './assets/icons/icon-512x512.png',
+  './assets/icons/icon.svg',
   'https://cdn.tailwindcss.com',
   'https://www.qfa.qa/assets/public/media/logo/header-logo.svg'
 ];
